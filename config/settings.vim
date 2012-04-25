@@ -118,7 +118,7 @@ filetype plugin indent on
 """""""""" User options you might actually care about
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " set guifont=Monaco:h13
-set guifont=Menlo:h11
+set guifont=Menlo:h13
 set linespace=0                 " spacing between lines if font is too crowded
 
 " colorscheme desert
