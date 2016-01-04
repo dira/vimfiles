@@ -9,7 +9,7 @@ Backup your configuration:
 
 Install:
 
-    git clone git://github.com/evilchelu/vimfiles.git ~/.vim
+    git clone git://github.com/dira/vimfiles.git ~/.vim
     ln -s ~/.vim/vimrc.vim  ~/.vimrc
     ln -s ~/.vim/gvimrc.vim ~/.gvimrc
 
@@ -22,6 +22,7 @@ Notes
 
 Stolen from
 ===========
+evilchelu
 adragomir
 soveran
 tpope
